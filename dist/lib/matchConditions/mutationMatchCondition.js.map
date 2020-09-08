@@ -1,0 +1,1 @@
+{"version":3,"file":"mutationMatchCondition.js","sourceRoot":"","sources":["../../../src/matchConditions/mutationMatchCondition.ts"],"names":[],"mappings":";;AACA,qEAAgE;AAMhE,IAAM,sBAAsB,GAAG,UAAC,EAGE;QAHF,4BAGE,EAFhC,gCAAa,EACb,4BAAW;IAEX,OAAO,iCAAuB,CAAC;QAC7B,WAAW,aAAA;QACX,cAAc,EAAE,aAAa;QAC7B,cAAc,EAAE,CAAC,UAAU,CAAC;KAC7B,CAAC,CAAC;AACL,CAAC,CAAC;AAEF,kBAAe,sBAAsB,CAAC"}
